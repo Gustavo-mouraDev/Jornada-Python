@@ -15,7 +15,7 @@ Repositório dedicado ao estudo da linguagem Python. Este material está sendo c
 
 ## 🧠 Aprendizado Interativo com CodeCodex
 
-[🔗 Acesse o site](https://codecodex.dev)
+[🔗 Acesse o site](https://www.codedex.io/home)
 
 Para complementar os estudos apresentados neste repositório, recomenda-se o uso da plataforma **CodeCodex**, uma ferramenta online e gratuita que permite aprender Python de forma prática e interativa, direto no navegador.
 
