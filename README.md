@@ -1,4 +1,4 @@
-# 📘Jornada-Python
+# 📘Aulas-Python
 
 Repositório dedicado ao estudo da linguagem Python. Este material está sendo construído como apoio para aprendizado pessoal, reunindo conteúdos teóricos e práticos.
 
