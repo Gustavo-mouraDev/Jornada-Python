@@ -6,20 +6,20 @@ Repositório dedicado ao estudo da linguagem Python. Este material está sendo c
 
 ## 📑 Sumário
 
-1. [Aprendizado Interativo com CodeCodex](#aprendizado-interativo-com-codecodex)  
+1. [Aprendizado Interativo com Codédex](#aprendizado-interativo-com-Codédex)
 2. [Tipos de Variáveis](#🧮-tipos-de-variáveis)  
 3. [Operadores Aritméticos e Lógicos](#➗-operadores-aritméticos-e-lógicos)  
 4. [Estruturas Condicionais](#🔀-estruturas-condicionais)  
 
 ---
 
-## 🧠 Aprendizado Interativo com CodeCodex
+## 🧠 Aprendizado Interativo com Codédex
 
 [🔗 Acesse o site](https://www.codedex.io/home)
 
-Para complementar os estudos apresentados neste repositório, recomenda-se o uso da plataforma **CodeCodex**, uma ferramenta online e gratuita que permite aprender Python de forma prática e interativa, direto no navegador.
+Para complementar os estudos apresentados neste repositório, recomenda-se o uso da plataforma **Codédex**, uma ferramenta online e gratuita que permite aprender Python de forma prática e interativa, direto no navegador.
 
-**Por que usar o CodeCodex?**
+**Por que usar o Codédex?**
 
 - Ambiente de codificação no próprio navegador – sem instalações.
 - Feedback imediato dos códigos que você escreve.
@@ -27,7 +27,7 @@ Para complementar os estudos apresentados neste repositório, recomenda-se o uso
 - Projetos práticos e desafios que estimulam a lógica.
 - Ideal para iniciantes e também para praticar conceitos avançados.
 
-💡 Use o CodeCodex como laboratório de testes enquanto estuda cada tema deste material. Por exemplo:
+💡 Use o Codédex como laboratório de testes enquanto estuda cada tema deste material. Por exemplo:
 - Pratique **tipos de variáveis** criando scripts com entrada e saída de dados.
 - Teste diferentes **operadores** resolvendo problemas matemáticos simples.
 - Aplique **estruturas condicionais** em jogos de adivinhação ou validações.
